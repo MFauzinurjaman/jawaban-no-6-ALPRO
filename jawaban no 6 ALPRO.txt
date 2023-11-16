@@ -1,0 +1,11 @@
+public class Main {
+    public static void main(String[] args) {
+        
+        String NamaSaya = "M FAUZI NURJAMAN";
+        int TahunLahir = 2003;
+
+        System.out.println("Nama saya  : "+ NamaSaya);
+        System.out.println("Tahun Lahir: " + TahunLahir);
+
+    }
+}
